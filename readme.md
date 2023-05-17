@@ -60,3 +60,6 @@ npm run server
 cd frontend
 npm run build
 ```
+
+all credit to 
+Traversy Media
